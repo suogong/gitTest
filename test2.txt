@@ -1,2 +1,4 @@
 new file make by me
-source: first make file
+source: first making
+source: second modification
+delete: partial delete
